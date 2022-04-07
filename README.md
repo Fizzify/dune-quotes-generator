@@ -1,7 +1,10 @@
 # dune-quotes-generator
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+
 Used https://github.com/ywalia01/dune-api.
+
+https://dune-quotes-generator.netlify.app/
 
 ## Creating a project
 
