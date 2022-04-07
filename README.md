@@ -1,6 +1,7 @@
-# create-svelte
+# dune-quotes-generator
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Used https://github.com/ywalia01/dune-api.
 
 ## Creating a project
 
@@ -38,3 +39,5 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+![image](https://user-images.githubusercontent.com/79361847/162103931-0a781a2a-2b1f-474d-808b-1ae6ead0d3cd.png)
