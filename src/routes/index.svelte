@@ -44,3 +44,7 @@
     font-family: Arial;
   }
 </style>
+
+<svelte:head>
+  <title>Dune Quotes Generator</title>
+</svelte:head>
